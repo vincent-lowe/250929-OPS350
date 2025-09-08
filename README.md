@@ -1,8 +1,8 @@
-# 250827-DEX480
+# 250908-MAX150
 
-Touch point for students of August Mulesoft DataWeave
+Touch point for students of Getting Started
 
-DEX480 - Anypoiont Development: DataWeave Classroom Reference - 250827 - PDT
+MAX250 - Anypoiont Development: Getting Started - 250908 - CDT
 
 Vincent Lowe
 vlowe@salesforce.com
@@ -11,20 +11,20 @@ Vincent's Blog: https://techwhine.panreality.com/
 -------------------------------------------------------------------------------------------------------------------
 Trailhead Academy:				https://trailheadacademy.salesforce.com/my-learning
 
-Attendance Code:				OEHFCL
+Attendance Code:				
 
 Salesforce Mimeo:				https://salesforce.mimeo.digital/MuleSoft
 
-eBook Redemption Key:				US8L3IV21MTX
+eBook Redemption Key:				
 
 -------------------------------------------------------------------------------------------------------------------
 Survey Link:								https://www.research.net/r/trailheadacademy
 
-Survey ID:								TASM-038398
+Survey ID:								
 
 -------------------------------------------------------------------------------------------------------------------
 
-Class System Setup (pre-class): https://trailhead.salesforce.com/help?article=Computer-Setup-Guide-for-MuleSoft-Expert-Led-Classes#DEX480
+Class System Setup (pre-class): https://trailhead.salesforce.com/help?article=Computer-Setup-Guide-for-MuleSoft-Expert-Led-Classes#MAX150
 
 Advanced REST Client: https://github.com/advanced-rest-client/arc-electron/releases/tag/v17.0.9
 
@@ -57,15 +57,8 @@ Classroom Playlist
 -------------------------------------------------------------------------------------------------------------------
 |Track Title|Artist|Notes|
 |-----------|------|-----|
-|The City of New Orleans|Arlo Guthrie||
-|My Walking Stick|Leon Redbone|I really need to get my own horn section!|
-|Analog Hero|Mark Erelli|Mark wrote this about his dad|
-|Stairway to Heaven|Luca Stricagnoli|One man, one guitar, three knecks|
-|Sixteen Tons|Geoff Castellucci|all voices are Geoff|
-|Feeling Good|Nina Simone||
 |Smooth Criminal|Luca Stricagnoli||
-|Mendocino County Line|Willie Nelson|feat. Lee Ann Womack|
-|Here We Go Again|Ray Charles and Norah Jones||
+
 
 
 
