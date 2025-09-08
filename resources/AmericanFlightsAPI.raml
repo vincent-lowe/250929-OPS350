@@ -54,14 +54,10 @@ description: |
             application/json:
               type: AmericanFlight
               example: !include /examples/AmericanFlightExample.raml
-
-
-
-
-
-
-
-
-
-
-
+    delete:
+      responses:
+        200:
+          body:
+            application/json:
+              example:
+                message: Flight deleted (but not really)
