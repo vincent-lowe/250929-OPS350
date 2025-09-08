@@ -58,6 +58,8 @@ Classroom Playlist
 |Track Title|Artist|Notes|
 |-----------|------|-----|
 |Smooth Criminal|Luca Stricagnoli||
+|Mendocino County Line|Jerry Jeff Walker|feat. Lee Ann Womack|
+|Sixteen Tons|Geoff Castellucci|all voices are Geoff|
 
 
 
