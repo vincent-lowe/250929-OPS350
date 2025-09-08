@@ -1,0 +1,67 @@
+#%RAML 1.0
+title: American Flights API
+version: v1
+
+types:
+  AmericanFlight: !include /exchange_modules/68ef9520-24e9-4cf2-b2f5-620025690913/training-american-flight-data-type/1.0.1/AmericanFlightDataType.raml
+
+description: |
+  Flight API can retrieve, create and delete flight records
+  from the _American database_. Flights are **available** to
+  San Francisco, Cleveland, and LA
+
+/flights:
+  get:
+    displayName: Get Flights
+    description: Retrieve one or more flight records
+    queryParameters:
+      destination:
+        required: false
+        enum:
+          - CLE
+          - LAX
+          - SFO
+    responses:
+      200:
+        body:
+          application/json:
+            type: AmericanFlight[]
+            example: !include /exchange_modules/68ef9520-24e9-4cf2-b2f5-620025690913/training-american-flights-example/1.0.1/AmericanFlightsExample.raml
+  post:
+    displayName: Create Flight
+    description: Create a new flight record
+    body:
+      application/json:
+        type: AmericanFlight
+        example: !include /examples/AmericanFlightExample.raml
+    responses:
+      201:
+        body:
+          application/json:
+            type: object
+            properties:
+              responsemessage: string
+            example:
+              responsemessage: Flight record added (jk, not really)
+    
+  /{ID}:
+    get:
+      displayName: Get Flight By ID
+      description: Retrieve one flight matching ID
+      responses:
+        200:
+          body:
+            application/json:
+              type: AmericanFlight
+              example: !include /examples/AmericanFlightExample.raml
+
+
+
+
+
+
+
+
+
+
+
