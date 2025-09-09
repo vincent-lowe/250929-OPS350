@@ -11,16 +11,16 @@ Vincent's Blog: https://techwhine.panreality.com/
 -------------------------------------------------------------------------------------------------------------------
 Trailhead Academy:				https://trailheadacademy.salesforce.com/my-learning
 
-Attendance Code:				
+Attendance Code:				6DJPAZ
 
 Salesforce Mimeo:				https://salesforce.mimeo.digital/MuleSoft
 
-eBook Redemption Key:				
+eBook Redemption Key:		US1ROYL1LOCG
 
 -------------------------------------------------------------------------------------------------------------------
 Survey Link:								https://www.research.net/r/trailheadacademy
 
-Survey ID:								
+Survey ID:								TASM-038685
 
 -------------------------------------------------------------------------------------------------------------------
 
