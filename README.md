@@ -64,7 +64,8 @@ Classroom Playlist
 |Hotel California|Laszlo Buring||
 |City of New Orleans|Arlo Guthrie||
 |How Can You Mend a Broken Heart|Al Green||
-
+|Tupelo Honey|Reina del Cid|Now performs as Elle and Toni|
+|Lazybones|Leon Redbone||
 
 
 
