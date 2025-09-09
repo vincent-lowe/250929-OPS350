@@ -15,7 +15,7 @@ Attendance Code:				6DJPAZ
 
 Salesforce Mimeo:				https://salesforce.mimeo.digital/MuleSoft
 
-eBook Redemption Key:		US1ROYL1LOCG
+eBook Redemption Key:		US1R0YL1L0CG
 
 -------------------------------------------------------------------------------------------------------------------
 Survey Link:								https://www.research.net/r/trailheadacademy
@@ -62,6 +62,8 @@ Classroom Playlist
 |Sixteen Tons|Geoff Castellucci|all voices are Geoff|
 |Here We Go Again|Ray Charles and Norah Jones||
 |Hotel California|Laszlo Buring||
+|City of New Orleans|Arlo Guthrie||
+|How Can You Mend a Broken Heart|Al Green||
 
 
 
