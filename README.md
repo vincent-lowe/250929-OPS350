@@ -66,6 +66,8 @@ Classroom Playlist
 |How Can You Mend a Broken Heart|Al Green||
 |Tupelo Honey|Reina del Cid|Now performs as Elle and Toni|
 |Lazybones|Leon Redbone||
+|The Final Countdown|Europe||
+|Crazy He Calls Me|Billie Holiday||
 
 
 
