@@ -1,8 +1,8 @@
-# 250908-MAX150
+# OPS350
 
-Touch point for students of Getting Started
+Touch point for students of Universal API Management
 
-MAX250 - Anypoiont Development: Getting Started - 250908 - CDT
+MAX250 - Universal API Management - YYMMDD - TZ
 
 Vincent Lowe
 vlowe@salesforce.com
@@ -11,22 +11,22 @@ Vincent's Blog: https://techwhine.panreality.com/
 -------------------------------------------------------------------------------------------------------------------
 Trailhead Academy:				https://trailheadacademy.salesforce.com/my-learning
 
-Attendance Code:				6DJPAZ
+Attendance Code:				
 
 Salesforce Mimeo:				https://salesforce.mimeo.digital/MuleSoft
 
-eBook Redemption Key:		US1R0YL1L0CG
+eBook Redemption Key:		
 
 -------------------------------------------------------------------------------------------------------------------
 Survey Link:								https://www.research.net/r/trailheadacademy
 
-Survey ID:								TASM-038685
+Survey ID:								
 
 -------------------------------------------------------------------------------------------------------------------
 
-Class System Setup (pre-class): https://trailhead.salesforce.com/help?article=Computer-Setup-Guide-for-MuleSoft-Expert-Led-Classes#MAX150
+Class System Setup (pre-class): https://trailhead.salesforce.com/help?article=Computer-Setup-Guide-for-MuleSoft-Expert-Led-Classes#OPS350
 
-Advanced REST Client: https://github.com/advanced-rest-client/arc-electron/releases/tag/v17.0.9
+Advanced REST Client: https://install.advancedrestclient.com/
 
 Postman: https://www.postman.com/downloads/
 
@@ -58,16 +58,7 @@ Classroom Playlist
 |Track Title|Artist|Notes|
 |-----------|------|-----|
 |Smooth Criminal|Luca Stricagnoli||
-|Mendocino County Line|Jerry Jeff Walker|feat. Lee Ann Womack|
-|Sixteen Tons|Geoff Castellucci|all voices are Geoff|
-|Here We Go Again|Ray Charles and Norah Jones||
-|Hotel California|Laszlo Buring||
-|City of New Orleans|Arlo Guthrie||
-|How Can You Mend a Broken Heart|Al Green||
-|Tupelo Honey|Reina del Cid|Now performs as Elle and Toni|
-|Lazybones|Leon Redbone||
-|The Final Countdown|Europe||
-|Crazy He Calls Me|Billie Holiday||
+
 
 
 
