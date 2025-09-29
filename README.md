@@ -60,6 +60,8 @@ Classroom Playlist
 |Smooth Criminal|Luca Stricagnoli||
 |Tupelo Honey|Reina del Cid||
 |How Can You Mend a Broken Heart|Al Green||
+|Analog Hero|Mark Erelli||
+|Sixteen Tons|Geoff Castellucci||
 
 
 
