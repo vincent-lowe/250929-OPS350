@@ -58,6 +58,8 @@ Classroom Playlist
 |Track Title|Artist|Notes|
 |-----------|------|-----|
 |Smooth Criminal|Luca Stricagnoli||
+|Tupelo Honey|Reina del Cid||
+
 
 
 
