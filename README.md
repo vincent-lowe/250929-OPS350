@@ -64,6 +64,8 @@ Classroom Playlist
 |Sixteen Tons|Geoff Castellucci||
 |The Street Beater|Quincy Jones|TV theme from Sanford and Son|
 |You Go To My Head|Ray Charles|with Oscar Peterson|
+|Love and Happiness|Al Green||
+|Here You Come Again|Dolly Parton||
 
 
 
