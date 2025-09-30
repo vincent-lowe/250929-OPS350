@@ -62,6 +62,8 @@ Classroom Playlist
 |How Can You Mend a Broken Heart|Al Green||
 |Analog Hero|Mark Erelli||
 |Sixteen Tons|Geoff Castellucci||
+|The Street Beater|Quincy Jones|TV theme from Sanford and Son|
+|You Go To My Head|Ray Charles|with Oscar Peterson|
 
 
 
