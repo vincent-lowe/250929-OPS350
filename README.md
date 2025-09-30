@@ -2,7 +2,7 @@
 
 Touch point for students of Universal API Management
 
-MAX250 - Universal API Management - YYMMDD - TZ
+MAX250 - Universal API Management - 250929 - MDT
 
 Vincent Lowe
 vlowe@salesforce.com
@@ -11,16 +11,16 @@ Vincent's Blog: https://techwhine.panreality.com/
 -------------------------------------------------------------------------------------------------------------------
 Trailhead Academy:				https://trailheadacademy.salesforce.com/my-learning
 
-Attendance Code:				
+Attendance Code:				LFTI1T
 
 Salesforce Mimeo:				https://salesforce.mimeo.digital/MuleSoft
 
-eBook Redemption Key:		
+eBook Redemption Key:		USPIMQY9IKCC
 
 -------------------------------------------------------------------------------------------------------------------
 Survey Link:								https://www.research.net/r/trailheadacademy
 
-Survey ID:								
+Survey ID:								TASM-038703
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -45,8 +45,6 @@ Anypoint Fundamentals Self Paced: https://trailhead.salesforce.com/users/strailh
 MuleSoft Pricing & Support: https://www.mulesoft.com/anypoint-pricing
 
 ------------------------------------------------------------------------------
-
-DataWeave resource page: https://github.com/vincent-lowe/dataweave-learning
 
 https://anypoint.mulesoft.com
 
