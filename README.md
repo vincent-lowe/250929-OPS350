@@ -64,6 +64,8 @@ Classroom Playlist
 |You Go To My Head|Ray Charles|with Oscar Peterson|
 |Love and Happiness|Al Green||
 |Here You Come Again|Dolly Parton||
+|Feelin Good|Nina Simone||
+|Steamroller|James Taylor||
 
 
 
