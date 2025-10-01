@@ -66,6 +66,8 @@ Classroom Playlist
 |Here You Come Again|Dolly Parton||
 |Feelin Good|Nina Simone||
 |Steamroller|James Taylor||
+|My Walking Stick|Leon Redbone||
+|The Cape|Guy Clark||
 
 
 
